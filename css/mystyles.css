@@ -1,0 +1,49 @@
+ul{
+    font-size: 40px
+}
+
+li{
+    color:aliceblue;
+    font-size: 20px;
+    font-style:italic;
+    text-align:left;
+}
+
+.hi{
+    font-size: 15px;
+}
+
+#friend{
+    margin: 10px;
+    padding:10px;
+}
+
+.yay{
+    height: 650px;
+}
+
+.third{
+    height:500px;
+}
+
+.howdy{
+    padding-right:100px;
+}
+
+.lefthowdy{
+    padding-left:100px;
+}
+
+.rescale{
+    height:750px;
+    padding-left:150px;
+}
+
+.hihi{
+    padding-left:50px;
+    padding-top:50px;
+}
+
+.bgblackblack{
+    background-color: #687d90cf;
+}
